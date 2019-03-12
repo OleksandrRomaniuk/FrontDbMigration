@@ -1,0 +1,67 @@
+.CheckBoxexAndButtons {
+    display: flex;
+    position:relative;
+    height: 80vh;
+    overflow: hidden;
+    float: left;
+}
+
+.loginFirst {
+    padding-top: 100px;
+    text-align: center;
+    clear: left;
+}
+
+.CheckBox {
+    position:relative;
+    max-width: 30vw;
+    min-width: 30vw;
+    max-height: 80vh;
+    overflow: auto;
+    margin-left: 10px;
+    padding-left: 10px;
+    clear: left;
+    margin: 10px;
+
+}
+
+.SqlQuery {
+    position:relative;
+    min-width:40vw;
+    max-width: 40vw;
+
+    float: right;
+    max-height: 20vh;
+    min-height: 20vh;
+    overflow: auto;
+    clear: left;
+    margin: 10px;
+    display:block;
+}
+
+.Buttons {
+    clear: left;
+    max-height: 10vh;
+    min-height: 10vh;
+    margin: 10px;
+}
+
+label {
+    display: block;
+    margin: 10px;
+    clear: left;
+}
+
+.ReactTableAttributes {
+    position:relative;
+    max-width: 30vw;
+    min-width: 30vw;
+    max-height: 80vh;
+    overflow: auto;
+    margin-left: 10px;
+    padding-left: 10px;
+    clear: left;
+    margin: 10px;
+    display:block;
+}
+

@@ -1,0 +1,19 @@
+.App {
+  margin-top: 15px;
+}
+
+.App .navbar-brand {
+  font-weight: bold;
+  max-height: 15vh;
+  min-height: 15vh;
+  min-width: 15vw;
+  man-width: 15vw;
+}
+
+.MainNavbar {
+  font-weight: bold;
+  max-height: 5vh;
+  min-height: 5vh;
+  min-width: 15vw;
+  man-width: 15vw;
+}
